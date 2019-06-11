@@ -1,0 +1,263 @@
+2019-06-06 09:50:27,714 - BrowserEngine - INFO - 你已经选择了 Chrome 浏览器.
+2019-06-06 09:50:27,715 - BrowserEngine - INFO - 测试套件服务器URL是 : http://172.16.0.57:8504/
+2019-06-06 09:50:29,976 - BrowserEngine - INFO - 启动Chrome浏览器.
+2019-06-06 09:50:32,004 - BrowserEngine - INFO - 打开地址: http://172.16.0.57:8504/
+2019-06-06 09:50:33,197 - BrowserEngine - INFO - 最大化当前窗口.
+2019-06-06 09:50:33,216 - BrowserEngine - INFO - 隐式等待10秒,正在处理.......
+2019-06-06 09:50:33,261 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='pane-userLogin']/form/div[1]/div/div/input 
+2019-06-06 09:50:33,410 - BasePage - INFO - 已输入 ' zhengsi ' 在输入框
+2019-06-06 09:50:33,423 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='pane-userLogin']/form/div[2]/div/div/input 
+2019-06-06 09:50:33,460 - BasePage - INFO - 已输入 ' 1 ' 在输入框
+2019-06-06 09:50:33,473 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='pane-userLogin']/form/div[3]/div/button 
+2019-06-06 09:50:33,559 - BasePage - INFO - The element ' 登录 ' was clicked.
+2019-06-06 09:50:35,699 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='app']/div/div/div[1]/div[1]/div/div/ul/div/li[4]/div 
+2019-06-06 09:50:35,806 - BasePage - INFO - The element ' 加工 ' was clicked.
+2019-06-06 09:50:35,808 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:50:36,821 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='app']/div/div/div[1]/div[1]/div[1]/div/ul/div/li[4]/ul/div[1]/li/div/span 
+2019-06-06 09:50:36,898 - BasePage - INFO - The element ' 加工账册 ' was clicked.
+2019-06-06 09:50:36,899 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:50:37,910 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='app']/div/div/div[1]/div[1]/div[1]/div/ul/div/li[4]/ul/div[1]/li/ul/a[1]/li/span 
+2019-06-06 09:50:38,321 - BasePage - INFO - The element ' 加工账册申报 ' was clicked.
+2019-06-06 09:50:38,322 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:50:39,448 - BasePage - INFO - 已找到元素 '  ' 成功, 通过 selector_selector 找到值: #BLS-TEMS1008100180 
+2019-06-06 09:50:39,469 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:50:39,480 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='add'] 
+2019-06-06 09:50:39,852 - BasePage - INFO - The element ' 新增 ' was clicked.
+2019-06-06 09:50:39,853 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:50:40,967 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:50:42,986 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='maxTovrAmt'] 
+2019-06-06 09:50:43,064 - BasePage - INFO - 已输入 ' 200 ' 在输入框
+2019-06-06 09:50:43,078 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='finishValidDate'] 
+2019-06-06 09:50:43,249 - BasePage - INFO - 已输入 ' 2019-12-31 ' 在输入框
+2019-06-06 09:50:43,263 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='rmk'] 
+2019-06-06 09:50:43,312 - BasePage - INFO - 已输入 ' 无 ' 在输入框
+2019-06-06 09:50:43,344 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='save'] 
+2019-06-06 09:50:43,480 - BasePage - INFO - The element ' 暂存 ' was clicked.
+2019-06-06 09:50:43,481 - BasePage - INFO - 隐式等待 10 秒.
+2019-06-06 09:50:45,595 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='tab']/li[1]/a 
+2019-06-06 09:50:45,607 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:50:47,640 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='imgAdd'] 
+2019-06-06 09:50:47,900 - BasePage - INFO - The element ' 新增 ' was clicked.
+2019-06-06 09:50:47,902 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:50:48,025 - BasePage - INFO - 已找到元素 '  ' 成功, 通过 selector_selector 找到值: iframe[style="height: 478px;"] 
+2019-06-06 09:50:48,044 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:50:48,056 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='gdsMtno'] 
+2019-06-06 09:50:48,138 - BasePage - INFO - 已输入 ' z-001 ' 在输入框
+2019-06-06 09:50:48,139 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:50:48,155 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='gdecd'] 
+2019-06-06 09:50:48,205 - BasePage - INFO - 已输入 ' 1001 ' 在输入框
+2019-06-06 09:50:48,206 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:50:48,212 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='gdecd'] 
+2019-06-06 09:50:48,325 - BasePage - INFO - 回车操作成功
+2019-06-06 09:50:48,405 - BasePage - INFO - 已找到元素 '  ' 成功, 通过 selector_selector 找到值: iframe[style="height: 408px;"] 
+2019-06-06 09:50:48,426 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:50:49,463 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='table']/tbody/tr[1]/td[1]/input 
+2019-06-06 09:50:49,646 - BasePage - INFO - The element '  ' was clicked.
+2019-06-06 09:50:49,657 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='affirm'] 
+2019-06-06 09:50:49,715 - BasePage - INFO - 回车操作成功
+2019-06-06 09:50:49,719 - BasePage - INFO - 退回父iframe
+2019-06-06 09:50:49,721 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:50:49,731 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='endprdGdsSpcfModelDesc'] 
+2019-06-06 09:50:49,781 - BasePage - INFO - 已输入 ' zs ' 在输入框
+2019-06-06 09:50:49,783 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:50:49,794 - BasePage - INFO - 已找到元素成功, 通过 id 找到值: dclCurrcd 
+2019-06-06 09:50:49,894 - BasePage - INFO - 已输入 ' None ' 在输入框
+2019-06-06 09:50:49,895 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:50:49,907 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='dclUprcAmt'] 
+2019-06-06 09:50:49,966 - BasePage - INFO - 已输入 ' 10 ' 在输入框
+2019-06-06 09:50:49,967 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:50:49,980 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='dclQty'] 
+2019-06-06 09:50:50,041 - BasePage - INFO - 已输入 ' 5000 ' 在输入框
+2019-06-06 09:50:50,042 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:50:50,053 - BasePage - INFO - 已找到元素成功, 通过 id 找到值: lvyrlfModecd 
+2019-06-06 09:50:50,129 - BasePage - INFO - 已输入 ' None ' 在输入框
+2019-06-06 09:50:50,130 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:50:50,141 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='rmk'] 
+2019-06-06 09:50:50,189 - BasePage - INFO - 已输入 ' 无 ' 在输入框
+2019-06-06 09:50:50,190 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:50:50,198 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='save'] 
+2019-06-06 09:50:50,326 - BasePage - INFO - 回车操作成功
+2019-06-06 09:50:50,327 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:50:52,340 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='reback'] 
+2019-06-06 09:50:52,384 - BasePage - INFO - 回车操作成功
+2019-06-06 09:50:52,385 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:50:52,388 - BasePage - INFO - 退回父iframe
+2019-06-06 09:50:52,389 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:50:53,519 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='tab']/li[1]/a 
+2019-06-06 09:50:53,525 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:50:53,537 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='imgImport'] 
+2019-06-06 09:50:53,808 - BasePage - INFO - The element ' 导入 ' was clicked.
+2019-06-06 09:50:53,810 - BasePage - INFO - 隐式等待 5 秒.
+2019-06-06 09:50:55,850 - BasePage - INFO - 已找到元素 '  ' 成功, 通过 selector_selector 找到值: iframe[style="height: 408px;"] 
+2019-06-06 09:50:55,871 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:50:58,954 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: html/body/div[1]/div/div[3]/div[2]/a/span 
+2019-06-06 09:50:59,112 - BasePage - INFO - The element ' 上传 ' was clicked.
+2019-06-06 09:50:59,114 - BasePage - INFO - 隐式等待 10 秒.
+2019-06-06 09:51:01,119 - BasePage - INFO - 退回父iframe
+2019-06-06 09:51:01,120 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:02,247 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='tab']/li[1]/a 
+2019-06-06 09:51:02,258 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:02,283 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='tab']/li[2]/a 
+2019-06-06 09:51:02,395 - BasePage - INFO - The element ' 成品 ' was clicked.
+2019-06-06 09:51:02,396 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:03,430 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='exgAdd'] 
+2019-06-06 09:51:03,844 - BasePage - INFO - The element ' 新增 ' was clicked.
+2019-06-06 09:51:03,846 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:04,873 - BasePage - INFO - 已找到元素 '  ' 成功, 通过 selector_selector 找到值: iframe[style="height: 478px;"] 
+2019-06-06 09:51:04,893 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:51:04,905 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='gdsMtno'] 
+2019-06-06 09:51:04,978 - BasePage - INFO - 已输入 ' c-001 ' 在输入框
+2019-06-06 09:51:04,980 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:51:04,991 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='gdecd'] 
+2019-06-06 09:51:05,046 - BasePage - INFO - 已输入 ' 1001 ' 在输入框
+2019-06-06 09:51:05,047 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:05,055 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='gdecd'] 
+2019-06-06 09:51:05,228 - BasePage - INFO - 回车操作成功
+2019-06-06 09:51:05,268 - BasePage - INFO - 已找到元素 '  ' 成功, 通过 selector_selector 找到值: iframe[style="height: 408px;"] 
+2019-06-06 09:51:05,295 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:51:06,332 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='affirm'] 
+2019-06-06 09:51:06,402 - BasePage - INFO - 回车操作成功
+2019-06-06 09:51:06,405 - BasePage - INFO - 退回父iframe
+2019-06-06 09:51:06,406 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:06,418 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='endprdGdsSpcfModelDesc'] 
+2019-06-06 09:51:06,472 - BasePage - INFO - 已输入 ' zs ' 在输入框
+2019-06-06 09:51:06,474 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:06,485 - BasePage - INFO - 已找到元素成功, 通过 id 找到值: dclCurrcd 
+2019-06-06 09:51:06,573 - BasePage - INFO - 已输入 ' None ' 在输入框
+2019-06-06 09:51:06,574 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:51:06,587 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='dclUprcAmt'] 
+2019-06-06 09:51:06,637 - BasePage - INFO - 已输入 ' 10 ' 在输入框
+2019-06-06 09:51:06,639 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:06,650 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='dclQty'] 
+2019-06-06 09:51:06,701 - BasePage - INFO - 已输入 ' 5000 ' 在输入框
+2019-06-06 09:51:06,703 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:06,713 - BasePage - INFO - 已找到元素成功, 通过 id 找到值: lvyrlfModecd 
+2019-06-06 09:51:06,792 - BasePage - INFO - 已输入 ' None ' 在输入框
+2019-06-06 09:51:06,793 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:51:06,806 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='rmk'] 
+2019-06-06 09:51:06,852 - BasePage - INFO - 已输入 ' 无 ' 在输入框
+2019-06-06 09:51:06,854 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:06,865 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='save'] 
+2019-06-06 09:51:06,964 - BasePage - INFO - 回车操作成功
+2019-06-06 09:51:06,965 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:08,999 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='reback'] 
+2019-06-06 09:51:09,048 - BasePage - INFO - 回车操作成功
+2019-06-06 09:51:09,050 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:09,053 - BasePage - INFO - 退回父iframe
+2019-06-06 09:51:09,055 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:10,190 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='tab']/li[1]/a 
+2019-06-06 09:51:10,201 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:10,217 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='tab']/li[2]/a 
+2019-06-06 09:51:10,338 - BasePage - INFO - The element ' 成品 ' was clicked.
+2019-06-06 09:51:10,339 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:12,371 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='exgImport'] 
+2019-06-06 09:51:12,510 - BasePage - INFO - 回车操作成功
+2019-06-06 09:51:12,512 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:13,530 - BasePage - INFO - 已找到元素 '  ' 成功, 通过 selector_selector 找到值: iframe[style="height: 408px;"] 
+2019-06-06 09:51:13,549 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:51:16,624 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: html/body/div[1]/div/div[3]/div[2]/a/span 
+2019-06-06 09:51:16,799 - BasePage - INFO - The element ' 上传 ' was clicked.
+2019-06-06 09:51:16,800 - BasePage - INFO - 隐式等待 10 秒.
+2019-06-06 09:51:18,806 - BasePage - INFO - 退回父iframe
+2019-06-06 09:51:18,807 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:19,934 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='tab']/li[1]/a 
+2019-06-06 09:51:19,951 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:19,968 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='liBom'] 
+2019-06-06 09:51:20,135 - BasePage - INFO - The element ' 单损耗 ' was clicked.
+2019-06-06 09:51:20,136 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:21,149 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='bomAdd'] 
+2019-06-06 09:51:21,420 - BasePage - INFO - The element ' 新增 ' was clicked.
+2019-06-06 09:51:21,422 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:22,479 - BasePage - INFO - 已找到元素 '  ' 成功, 通过 selector_selector 找到值: iframe[style="height: 478px;"] 
+2019-06-06 09:51:22,500 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:51:22,510 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='endprdSeqno'] 
+2019-06-06 09:51:22,558 - BasePage - INFO - 已输入 ' 1 ' 在输入框
+2019-06-06 09:51:22,560 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:22,568 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='endprdSeqno'] 
+2019-06-06 09:51:22,593 - BasePage - INFO - 回车操作成功
+2019-06-06 09:51:22,594 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:22,606 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='mtpckSeqno'] 
+2019-06-06 09:51:22,640 - BasePage - INFO - 已输入 ' 1 ' 在输入框
+2019-06-06 09:51:22,641 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:22,648 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='mtpckSeqno'] 
+2019-06-06 09:51:22,672 - BasePage - INFO - 回车操作成功
+2019-06-06 09:51:22,682 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='ucnsVerno'] 
+2019-06-06 09:51:22,731 - BasePage - INFO - 已输入 ' 1.0 ' 在输入框
+2019-06-06 09:51:22,733 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:22,745 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='netUseupQty'] 
+2019-06-06 09:51:22,781 - BasePage - INFO - 已输入 ' 2 ' 在输入框
+2019-06-06 09:51:22,782 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:22,793 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='tgblLossRate'] 
+2019-06-06 09:51:22,830 - BasePage - INFO - 已输入 ' 20 ' 在输入框
+2019-06-06 09:51:22,831 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:22,841 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='intgbLossRate'] 
+2019-06-06 09:51:22,881 - BasePage - INFO - 已输入 ' 30 ' 在输入框
+2019-06-06 09:51:22,883 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:22,894 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='ucnsValidDate'] 
+2019-06-06 09:51:22,949 - BasePage - INFO - Clear text in input box before typing.
+2019-06-06 09:51:22,951 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:22,958 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='ucnsValidDate'] 
+2019-06-06 09:51:23,082 - BasePage - INFO - 已输入 ' 2019-01-01 ' 在输入框
+2019-06-06 09:51:23,083 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:23,094 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='rmk'] 
+2019-06-06 09:51:23,126 - BasePage - INFO - 已输入 ' 无 ' 在输入框
+2019-06-06 09:51:23,127 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:23,135 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='save'] 
+2019-06-06 09:51:23,255 - BasePage - INFO - 回车操作成功
+2019-06-06 09:51:23,257 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:25,282 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='reback'] 
+2019-06-06 09:51:25,339 - BasePage - INFO - 回车操作成功
+2019-06-06 09:51:25,341 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:25,344 - BasePage - INFO - 退回父iframe
+2019-06-06 09:51:25,345 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:26,472 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='tab']/li[1]/a 
+2019-06-06 09:51:26,480 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:26,491 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='liBom'] 
+2019-06-06 09:51:26,565 - BasePage - INFO - The element ' 单损耗 ' was clicked.
+2019-06-06 09:51:26,567 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:28,578 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='bomImport'] 
+2019-06-06 09:51:28,780 - BasePage - INFO - The element ' 导入 ' was clicked.
+2019-06-06 09:51:28,781 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:29,824 - BasePage - INFO - 已找到元素 '  ' 成功, 通过 selector_selector 找到值: iframe[style="height: 408px;"] 
+2019-06-06 09:51:29,842 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:51:32,901 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: html/body/div[1]/div/div[3]/div[2]/a/span 
+2019-06-06 09:51:33,071 - BasePage - INFO - The element ' 上传 ' was clicked.
+2019-06-06 09:51:33,072 - BasePage - INFO - 隐式等待 10 秒.
+2019-06-06 09:51:35,081 - BasePage - INFO - 退回父iframe
+2019-06-06 09:51:35,084 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:36,220 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='file_ibox']/div[1]/h4 
+2019-06-06 09:51:36,228 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:36,243 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='file_ibox']/div[1]/div/a/i 
+2019-06-06 09:51:36,372 - BasePage - INFO - The element '  ' was clicked.
+2019-06-06 09:51:36,373 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:36,388 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='fileAdd'] 
+2019-06-06 09:51:36,653 - BasePage - INFO - The element ' 新增 ' was clicked.
+2019-06-06 09:51:36,654 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:51:37,704 - BasePage - INFO - 已找到元素 '  ' 成功, 通过 selector_selector 找到值: iframe[style="height: 478px;"] 
+2019-06-06 09:51:37,722 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:51:40,028 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='head']/div[4]/div/div[3]/div[2]/a/span 
+2019-06-06 09:51:40,186 - BasePage - INFO - The element ' 上传 ' was clicked.
+2019-06-06 09:51:40,187 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:41,199 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='save'] 
+2019-06-06 09:51:41,358 - BasePage - INFO - The element ' 暂存 ' was clicked.
+2019-06-06 09:51:41,359 - BasePage - INFO - 隐式等待 4 秒.
+2019-06-06 09:51:42,369 - BasePage - INFO - 退回父iframe
+2019-06-06 09:51:42,373 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:43,500 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='file_ibox']/div[1]/h4 
+2019-06-06 09:51:43,510 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:43,521 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='fileAdd'] 
+2019-06-06 09:51:43,800 - BasePage - INFO - The element ' 新增 ' was clicked.
+2019-06-06 09:51:43,802 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:51:44,847 - BasePage - INFO - 已找到元素 '  ' 成功, 通过 selector_selector 找到值: iframe[style="height: 478px;"] 
+2019-06-06 09:51:44,868 - BasePage - INFO - 隐式等待 2 秒.
+2019-06-06 09:51:47,138 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='head']/div[4]/div/div[3]/div[2]/a/span 
+2019-06-06 09:51:47,282 - BasePage - INFO - The element ' 上传 ' was clicked.
+2019-06-06 09:51:47,284 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:48,304 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='save'] 
+2019-06-06 09:51:48,470 - BasePage - INFO - The element ' 暂存 ' was clicked.
+2019-06-06 09:51:48,472 - BasePage - INFO - 隐式等待 4 秒.
+2019-06-06 09:51:49,477 - BasePage - INFO - 退回父iframe
+2019-06-06 09:51:49,479 - BasePage - INFO - 隐式等待 3 秒.
+2019-06-06 09:51:50,515 - BasePage - INFO - 已找到元素成功, 通过 xpath 找到值: .//*[@id='declare'] 
+2019-06-06 09:51:50,771 - BasePage - INFO - The element ' 申报 ' was clicked.
+2019-06-06 09:51:50,785 - BasePage - INFO - 隐式等待 2 秒.
